@@ -28,6 +28,6 @@ Sales Dashboard Performance adalah proyek analisis data yang bertujuan untuk mem
 - **Peningkatan jumlah barang per transaksi** melalui upselling dan cross-selling.
 - **Paket bundling** untuk meningkatkan nilai transaksi per order.
 
-## ⚙️ Teknologi yang Digunakan
+## ⚙️ Tools yang digunakan
 - **Power BI** untuk visualisasi data
 - **PostgreSQL** untuk membuat tabel master dan melakukan analisis
