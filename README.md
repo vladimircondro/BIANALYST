@@ -1,1 +1,1 @@
-# BIANALYST
+# Bank Muamalat Business Intelligence Analyst
